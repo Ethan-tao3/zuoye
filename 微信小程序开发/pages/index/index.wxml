@@ -1,0 +1,21 @@
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" indicator-dots='true'>
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  </block>
+</swiper>
+
+ <view class='items-list'>
+   <view class='pro-item'></view> 
+     <image class='pro-logo' src='/images/kefu01.jpg'></image>
+     <view class='pro-body'>
+      <view class='pro-title'>标题</view>
+      <text class='pro-desc'>具体内容介绍</text>
+      <view class='pro-footer'>
+        <image class='btn-detail' src='/images/rukuliucheng01.png'></image>
+        <image class='btn-ask' src='/images/rukuliucheng01.png'></image>
+      </view>
+     </view>
+ </view>

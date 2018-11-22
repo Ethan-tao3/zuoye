@@ -1,0 +1,16 @@
+<view class='footer1'>
+<button bindtap='download'>链接</button>
+</view>
+
+<view class='footer2'>
+ <button bindtap='call'>电话联系</button>
+</view>
+
+<view class='footer3'>
+ <button bindtap='content'>获取数据</button>
+</view>
+<block wx:for-items="{{result}}">
+    <view style="width:90%; height: 50rpx"></view>
+    <!--index默认为下标，item为每项-->
+    <text>第{{index}}条数据 {{item.content}}</text>
+</block>

@@ -1,0 +1,4 @@
+/* pages/join/join.wxss */
+.footer3{
+  color: #9a9a0a;
+}
