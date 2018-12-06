@@ -1,0 +1,51 @@
+<view class="search">  
+  <view class="df search_arr">
+    <input class="" disabled placeholder="大家都在搜：灭火器" value="{{searchValue}}"/>  
+  </view>  
+</view>     
+
+<view class='list1'>
+  <view class='list1-1'>灭火器</view>
+  <view class='list1-2'>消防面罩</view>
+  <view class='list1-2'>灭火器</view>
+  <view class='list1-2'>消防面罩</view>
+  <view class='list1-2'>灭火器</view>
+  <view class='list1-2'>消防面罩</view>
+</view>
+
+<view class='list2'>
+  <view class='list2-1'>
+    <image class='list2-11' src='/images/fl.png'></image>
+    <view class='list2-12'>淮海4Kg公斤干粉灭火器</view>
+    <view class='list2-13'>¥45元/年</view>
+  </view>
+  <view class='list2-2'>
+    <image class='list2-21' src='/images/fl.png'></image>
+    <view class='list2-22'>淮海4Kg公斤干粉灭火器</view>
+    <view class='list2-23'>¥45元/年</view>
+  </view>
+</view>
+<view class='list2'>
+  <view class='list2-1'>
+    <image class='list2-11' src='/images/fl.png'></image>
+    <view class='list2-12'>淮海4Kg公斤干粉灭火器</view>
+    <view class='list2-13'>¥45元/年</view>
+  </view>
+  <view class='list2-2'>
+    <image class='list2-21' src='/images/fl.png'></image>
+    <view class='list2-22'>淮海4Kg公斤干粉灭火器</view>
+    <view class='list2-23'>¥45元/年</view>
+  </view>
+</view>
+<view class='list3'>
+  <view class='list3-1'>
+    <image class='list3-11' src='/images/fl.png'></image>
+    <view class='list3-12'>淮海4Kg公斤干粉灭火器</view>
+    <view class='list2-13'>¥45元/年</view>
+  </view>
+  <view class='list3-2'>
+    <image class='list3-21' src='/images/fl.png'></image>
+    <view class='list3-22'>淮海4Kg公斤干粉灭火器</view>
+    <view class='list3-23'>¥45元/年</view>
+  </view>
+</view>

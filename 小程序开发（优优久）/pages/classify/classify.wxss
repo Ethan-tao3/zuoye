@@ -1,0 +1,134 @@
+page{
+  background: #F5F5F5 100%;
+}
+
+.search{  
+  width: 100%;  
+}  
+.search_arr { 
+  background: #fff; 
+  border: 1px solid #6F6A6A;  
+  border-radius: 50rpx;
+  margin: 20rpx; 
+}  
+.search_arr input{  
+  margin-left: 30rpx;  
+  height: 60rpx;  
+  border-radius: 5px;  
+}
+
+.list1{
+  float: left;
+  width:200rpx;
+}
+.list1-1{
+  display: block;
+  background: #fff;
+  height: 40rpx;
+  font-size: 28rpx;
+  text-align: center;
+  padding-top: 26rpx;
+  padding-bottom: 22rpx;
+  border: 1px solid ##F5F5F5 100%;
+}
+.list1-2{
+  display: block;
+  height: 40rpx;
+  font-size: 28rpx;
+  text-align: center;
+  padding-top: 26rpx;
+  padding-bottom: 22rpx;
+  border: 1px solid ##F5F5F5 100%;
+}
+
+.list2{
+
+}
+.list2-1{
+  float: left;
+  background: #fff;
+}
+.list2-11{
+  width: 257rpx;
+  height: 236rpx;
+  padding-left: 11rpx;
+}
+.list2-12{
+  display: block;
+  width: 255.34rpx;
+  font-size: 28rpx;
+  color: #222020;
+  padding-left: 21rpx;
+}
+.list2-13{
+  font-size: 30rpx;
+  color: #F91B27;
+  padding-left: 21rpx;
+}
+.list2-2{
+  float: left;
+  background: #fff;
+}
+.list2-21{
+  width: 257rpx;
+  height: 236rpx;
+  padding-left: 11rpx;
+}
+.list2-22{
+  display: block;
+  width: 255.34rpx;
+  font-size: 28rpx;
+  color: #222020;
+  padding-left: 21rpx;
+}
+.list2-23{
+  font-size: 30rpx;
+  color: #F91B27;
+  padding-left: 21rpx;
+}
+
+.list3{
+  margin-left: 197rpx;
+}
+.list3-1{
+  float: left;
+  background: #fff;
+}
+.list3-11{
+  width: 257rpx;
+  height: 236rpx;
+  padding-left: 11rpx;
+}
+.list3-12{
+  display: block;
+  width: 255.34rpx;
+  font-size: 28rpx;
+  color: #222020;
+  padding-left: 21rpx;
+}
+.list3-13{
+  font-size: 30rpx;
+  color: #F91B27;
+  padding-left: 21rpx;
+}
+.list3-2{
+  float: left;
+  background: #fff;
+}
+.list3-21{
+  width: 257rpx;
+  height: 236rpx;
+  padding-left: 11rpx;
+}
+.list3-22{
+  display: block;
+  width: 255.34rpx;
+  font-size: 28rpx;
+  color: #222020;
+  padding-left: 21rpx;
+}
+.list3-23{
+  font-size: 30rpx;
+  color: #F91B27;
+  padding-left: 21rpx;
+}

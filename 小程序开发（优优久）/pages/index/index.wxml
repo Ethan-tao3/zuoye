@@ -1,0 +1,61 @@
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  </block>
+</swiper>
+
+<view class='item-list'>
+  <view class='pro-item'>
+    <image class='pro-logo' src='/images/xftt.png'></image>
+    <view class='pro-body'>
+      <text class='pro-1'>2018-06-12</text>
+      <text class='pro-2'>IT设备租赁已成为新常态</text>
+    </view>
+    <view class='pro-body'>
+      <text class='pro-1'>2018-06-12</text>
+      <text class='pro-2'>家用灭火器和商用有何区别？</text>
+    </view>
+  </view>
+</view>
+
+<view class='item-list2'>
+  <view class='pro-item2'>
+    <view class='pro-body2'>
+      <text class='pro-3'>商用消防设备</text>
+      <text class='pro-4'>商用/车载消防设备</text>
+    </view>
+    <image class='pro-logo2' src='/images/jy.png'></image>
+    <image class='pro-logo3' src='/images/jycz.png'></image>
+  </view>
+  <view class='pro-item3'>
+    <view class='pro-body3'>
+      <text class='pro-5'>资讯专区</text>
+      <text class='pro-6'>定制服务</text>
+      <text class='pro-7'>我的奖励</text>
+    </view>
+    <image class='pro-logo4' src='/images/zxzq.png'></image>
+    <image class='pro-logo5' src='/images/dzfw.png'></image>
+    <image class='pro-logo6' src='/images/wdjl.png'></image>
+  </view>
+</view>
+
+<view class='item-list3'>
+  <view class='pro-rmtj'>
+    <text class='pro-8'>热门推荐</text>
+  </view>
+  <view class='pro-left'>
+    <image class='pro-logo7' src='/images/rmtj.png'></image>
+    <view class='pro-cpjs1'>
+      <text class='pro-9'>淮海4Kg干粉灭火器商用手提式</text>
+    </view>
+  </view>
+  <view class='pro-right'>
+   <image class='pro-logo8' src='/images/rmtj.png'></image>
+    <view class='pro-cpjs2'>
+      <text class='pro-10'>火焰战士车载灭火器汽车车用灭火器</text>
+    </view> 
+  </view>
+</view>
